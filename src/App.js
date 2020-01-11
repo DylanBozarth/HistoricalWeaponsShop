@@ -1,12 +1,14 @@
 import React from 'react';
 import './App.css';
-import { Homepage } from './Components/Homepage/Homepage';
+import { Homepage } from './Pages/Homepage/Homepage';
+
+
 
 function App() {
   return (
     <div >
-      Whatup world
-      <Homepage />
+  
+<Homepage />
     </div>
   );
 }
