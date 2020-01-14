@@ -1,0 +1,18 @@
+
+.ItemListRoman {
+    background-color: black;
+    margin-left: 45px;
+    margin-right: 45px;
+        color: white;
+        border-style: 1px solid black;
+        
+    }
+    .Roman  {
+        text-align: center;
+    }
+    .FullPageRoman {
+        background-image: url('https://wallpapercave.com/wp/yuWOcEt.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    }

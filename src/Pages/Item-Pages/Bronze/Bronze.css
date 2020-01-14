@@ -1,0 +1,19 @@
+
+.ItemList {
+    background-color: black;
+    margin-left: 45px;
+    margin-right: 45px;
+        color: white;
+        border-style: 1px solid black;
+        
+    }
+    .Bronze  {
+        text-align: center;
+    }
+    .FullPageBronze {
+        background-image: url('http://yesofcorsa.com/wp-content/uploads/2017/12/Bronze-Wallpaper-HQ.jpg');
+        background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+    }

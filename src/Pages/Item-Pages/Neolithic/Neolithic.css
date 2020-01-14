@@ -1,0 +1,18 @@
+
+.ItemList {
+background-color: black;
+margin-left: 45px;
+margin-right: 45px;
+    color: white;
+    border-style: 1px solid black;
+    
+}
+.NeolithicInfo {
+    text-align: center;
+}
+.FullPage {
+    background-image: url('http://hddesktopwallpapers.in/wp-content/uploads/2015/09/stone-background-wallpaper.jpg');
+height: 100%;
+width: 100%;
+
+}

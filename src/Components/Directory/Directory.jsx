@@ -60,7 +60,7 @@ class Directory extends Component {
         {
             /* destructoring and adding props to components */
             this.state.sections.map(({title, imageUrl, timePeriod, id, size, linkUrl }) => (
-            <MenuItem key={id} title={title} imageUrl={imageUrl} timePeriod={timePeriod} href={linkUrl} size={size} />
+            <MenuItem key={id} title={title} imageUrl={imageUrl} timePeriod={timePeriod} linkUrl={linkUrl} size={size} />
         ))}
         }
         </div> );

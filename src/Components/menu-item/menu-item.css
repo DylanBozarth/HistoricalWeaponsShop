@@ -1,3 +1,8 @@
+* {
+  color: whitesmoke;
+}
+
+
 .menu-item {
   min-width: 30%;
   height: 300px;
@@ -50,6 +55,7 @@
       -ms-flex-pack: center;
           justify-content: center;
   border: 1px solid black;
+  color: white;
 }
 
 .menu-item .content .title {
@@ -59,8 +65,9 @@
   color: whitesmoke;
 }
 
-.menu-item .content .subtitle {
+.menu-item .content .subtitle  {
   font-weight: lighter;
   font-size: 16px;
+  color: white;
 }
 /*# sourceMappingURL=menu-item.css.map */

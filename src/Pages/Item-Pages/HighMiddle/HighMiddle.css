@@ -1,0 +1,18 @@
+
+.ItemListHighMiddle {
+    background-color: black;
+    margin-left: 45px;
+    margin-right: 45px;
+        color: white;
+        border-style: 1px solid black;
+        
+    }
+    .HighMiddle  {
+        text-align: center;
+    }
+    .FullPageHighMiddle {
+        background-image: url('https://www.ugent.be/pirenne/img/n7100723_jpeg_345_345dm.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    }

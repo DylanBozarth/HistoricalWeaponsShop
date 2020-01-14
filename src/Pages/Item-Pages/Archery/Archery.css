@@ -1,0 +1,18 @@
+
+.ItemListArchery {
+    background-color: black;
+    margin-left: 45px;
+    margin-right: 45px;
+        color: white;
+        border-style: 1px solid black;
+        
+    }
+    .Archery  {
+        text-align: center;
+    }
+    .FullPageArchery {
+        background-image: url('https://images2.alphacoders.com/106/106500.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    }
